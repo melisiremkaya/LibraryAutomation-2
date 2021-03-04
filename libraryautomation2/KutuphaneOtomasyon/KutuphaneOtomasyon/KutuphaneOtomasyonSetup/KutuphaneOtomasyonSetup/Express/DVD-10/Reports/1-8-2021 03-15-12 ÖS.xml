@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="KutuphaneOtomasyonSetup" ProductVersion="1.00.0000" Built="1-8-2021 03-15-12 ÖS" Media="DVD-10" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##DN_AlwaysInstall##" Description="Enter the description for this feature here." Comment="Enter comments regarding this feature here.">AlwaysInstall</Feature>
+  </Features>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="[ProgramFilesFolder]KutuphaneOtomasyon\My Product Name" Feature="Always Install" Modified="8.01.2021 15:15:00" Size="41987584" Version="1.0.0.0">KutuphaneOtomasyon.exe</File>
+    <File Destination="[ProgramFilesFolder]KutuphaneOtomasyon\My Product Name" Feature="Always Install" Modified="12.12.2020 20:58:24" Size="184" Version="">KutuphaneOtomasyon.exe.config</File>
+    <File Destination="[ProgramFilesFolder]KutuphaneOtomasyon\My Product Name" Feature="Always Install" Modified="12.12.2008 17:01:34" Size="307200" Version="5.1.5.28844">ZedGraph.dll</File>
+    <File Destination="[ProgramFilesFolder]KutuphaneOtomasyon\My Product Name" Feature="Always Install" Modified="6.01.2021 23:43:08" Size="651264" Version="">Database1.accdb</File>
+    <File Destination="[ProgramFilesFolder]KutuphaneOtomasyon\My Product Name" Feature="Always Install" Modified="8.01.2021 15:15:00" Size="41987584" Version="1.0.0.0">KutuphaneOtomasyon.exe</File>
+  </Files>
+</BuildReport>
